@@ -7,7 +7,7 @@ Website for the Googol Discord bot. It only has one page though.
 Emojis are used at the beginning of commit messages in order to easily give a category to the type of commit it is. Below is the table that shows what each emoji means.
 
 | Emoji                       | What it means                               |
-|-----------------------------|---------------------------------------------|
+|:---------------------------:|---------------------------------------------|
 | :art:                       | Improving structure / format of the code.   |
 | :zap:                       | Improving performance.                      |
 | :fire:                      | Removing code or files.                     |
